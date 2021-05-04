@@ -9,3 +9,6 @@ Esse é um projeto que simula operações de banco.
 Para obter experiência com um fluxo de trabalho similar ao que é encontrado
 no mercado.
 
+## Escopo
+
+Clique [aqui](docs/escopo-aplicacao.md) para ver o escopo.
