@@ -1,0 +1,27 @@
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.jc-space-between {
+  justify-content: space-between;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.ai-stretch {
+  align-items: stretch;
+}
+
+.botao-acao {
+  padding: 5pt;
+  background-color: #b7bce6;
+  border: 1pt solid #2b2c2f;
+  border-radius: 5px;
+  box-shadow: 2pt 2pt 2pt #00000040;
+}
